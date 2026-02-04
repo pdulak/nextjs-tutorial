@@ -1,7 +1,7 @@
 import LikeButton from './like-button';
 
-function Header(props) {
-    return <h1>{props.title}</h1>;
+function Header({ title }: { title: string }) {
+    return <h1>{title}</h1>;
 }
 
 function Paragraph() {
@@ -10,10 +10,6 @@ function Paragraph() {
 
 export default function HomePage() {
     const names = ['Ada Lovelace', 'Grace Hopper', 'Margaret Hamilton'];
-    
-    function handleClick() {
-        setLikes(likes + 1);
-    }
 
     return (
         <div>
