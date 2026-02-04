@@ -1,1 +1,1 @@
-where I finished: https://nextjs.org/learn/react-foundations/updating-state
+where I finished: https://nextjs.org/learn/react-foundations/from-react-to-nextjs
