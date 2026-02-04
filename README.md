@@ -1,1 +1,1 @@
-where I finished: https://nextjs.org/learn/react-foundations/installation
+Next lesson: https://nextjs.org/learn/dashboard-app
