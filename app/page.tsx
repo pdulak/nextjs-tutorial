@@ -1,7 +1,7 @@
 import LikeButton from './like-button';
 
 function Header({ title }: { title: string }) {
-    return <h1>{title}</h1>;
+    return <h1 className="text-3xl font-bold underline">{title}</h1>;
 }
 
 function Paragraph() {
