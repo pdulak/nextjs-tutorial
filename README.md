@@ -1,1 +1,1 @@
-Next lesson: https://nextjs.org/learn/dashboard-app
+Next lesson: https://nextjs.org/learn/dashboard-app/getting-started
